@@ -1,0 +1,54 @@
+.Graduation {
+    padding: 0 2rem 0 2rem;
+    display: flex;
+    height: 130vh;
+    margin-top: 2rem;
+  
+    /* scroll */
+    align-items: center;
+  }
+  /* left side */
+  .awesome1 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .awesome1 > :nth-child(1) {
+    color: var(--orange);
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  .awesome1 > :nth-child(2) {
+    color: var(--black);
+    font-size: 18px;
+    font-weight: 900;
+  }
+  .awesome1 > :nth-child(3) {
+    color: var(--gray);
+    font-size: 18px;
+    margin-top: 1rem;
+  }
+  .awesome1 > :nth-child(4) {
+    
+    color: var(--black);
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .awesome1 > :nth-child(5) {
+    color: var(--gray);
+    font-size: 18px;
+    margin-top: 1rem;
+  }
+  .awesome1 > :nth-child(6) {
+    
+    color: var(--black);
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .awesome1 > :nth-child(7) {
+    color: var(--gray);
+    font-size: 18px;
+    margin-top: 1rem;
+  }
+  
