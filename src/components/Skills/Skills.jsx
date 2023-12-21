@@ -59,7 +59,7 @@ const Skills = () => {
           <Card
             emoji={Glasses}
             heading={"Developer"}
-            detail={"Html, Css, JavaScript, React, Nodejs, Express"}
+            detail={"C++, Java, Python, Html, Css, JavaScript, React, Nodejs, Express"}
           />
         </motion.div>
         {/* 3rd */}
